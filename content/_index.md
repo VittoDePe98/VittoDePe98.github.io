@@ -25,7 +25,7 @@ sections:
         interests: ''
     design:
       # Apply a custom layered background
-      css_style: "background-image: linear-gradient(135deg, rgba(7, 33, 53, 0.9), rgba(2, 17, 23, 0.75)), url('/assets/media/background.png'); background-size: cover; background-position: center; background-repeat: no-repeat; border-radius: 2px;"
+      css_style: "background-image: linear-gradient(135deg, rgba(255,255,255,0.25), rgba(255,255,255,0.15)), url('/assets/media/background.png'); background-size: cover; background-position: center; background-repeat: no-repeat; border-radius: 2px;"
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
