@@ -43,18 +43,18 @@ profiles:
   - icon: brands/github
     url: https://github.com/VittoDePe98
     label: GitHub
-  - icon: brands/docker
-    url: https://hub.docker.com/u/vittodepe98
-    label: Docker Hub
+  %- icon: brands/docker
+    %url: https://hub.docker.com/u/vittodepe98
+    %label: Docker Hub
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=aUvIDgUAAAAJ&hl=it
     label: Google Scholar
   - icon: academicons/orcid
     url: https://orcid.org/0009-0009-0286-9862
     label: ORCID
-  - icon: hero/water
-    url: https://deepwave.kaust.edu.sa/people
-    label: DeepWave Lab
+  %- icon: hero/water
+    %url: https://deepwave.kaust.edu.sa/people
+    %label: DeepWave Lab
 
 interests:
   - Deep Learning
