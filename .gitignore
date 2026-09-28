@@ -3,9 +3,9 @@ push.sh
 .DS_Store
 
 # local build tooling
-.gems/
-vendor/
-.bundle/
+/.gems/
+/vendor/
+/.bundle/
 _site/
 .jekyll-cache/
 .jekyll-metadata
