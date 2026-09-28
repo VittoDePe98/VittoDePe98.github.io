@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 About Me
+# 👋 About Me ([CV](files/CV_Vittoria_De_Pellegrini.pdf))
 
 I am an Italian-Brazilian PhD student at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/) and a Doctoral Researcher with the industry-funded [DeepWave Consortium](https://deepwave.kaust.edu.sa/), which builds machine- and deep-learning workflows for subsurface reservoir characterization. My advisor is Prof. Tariq Alkhalifah.
 
 💻 I focus on **deep generative AI** — especially **video diffusion models** — to model multi-phase subsurface fluid-flow dynamics. I build latent conditional and progressive autoregressive video diffusion models tailored to reservoir simulation data, generating video sequences of key field variables such as CO₂ gas saturation and pressure build-up for **geological carbon sequestration** studies. My workflows rely on CUDA-aware, reproducible CPU/GPU parallel pipelines running at scale on the KAUST IBEX supercomputing cluster.
 
 🔍 **Research interests:** Deep Learning · Deep Generative Modeling · Diffusion Models · Reservoir Simulation · Petrophysics & Well-Logging · Geological Carbon Storage
-
-📄 You can find my full CV [here](files/CV_Vittoria_De_Pellegrini.pdf).
 
 <a href='https://scholar.google.com/citations?user=aUvIDgUAAAAJ'>Google Scholar citations <strong><span id='total_cit'>0</span></strong></a> <a href='https://scholar.google.com/citations?user=aUvIDgUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -39,37 +37,33 @@ I am an Italian-Brazilian PhD student at [King Abdullah University of Science an
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/lavigflow.gif' alt="LAViG-FLOW" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="images/lavigflow.gif"><img src='images/lavigflow.gif' alt="LAViG-FLOW" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations](https://arxiv.org/abs/2601.13190)
-
-**Vittoria De Pellegrini**, Tariq Alkhalifah
-
-[**arXiv**](https://arxiv.org/abs/2601.13190) \| [**Code**](https://github.com/VittoDePe98/LAViG-FLOW-pub)
+<a class=PaperTitle href="https://arxiv.org/abs/2601.13190"><b>LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations</b></a> \\
+ *arXiv preprint, 2026* \\
+**Vittoria De Pellegrini**, Tariq Alkhalifah \\
+[<a href="https://arxiv.org/abs/2601.13190">PDF</a>] [<a href="https://github.com/VittoDePe98/LAViG-FLOW-pub">Code</a>]
 - A latent autoregressive video generation diffusion framework that explicitly learns the **coupled evolution of saturation and pressure fields**.
 - Dedicated autoencoders compress each state variable; a Video Diffusion Transformer models their temporal distribution.
 - Autoregressive fine-tuning enables extrapolation beyond the observed time window, running **two orders of magnitude faster** than traditional numerical solvers.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAGE 2025</div><img src='images/dmfco2.png' alt="DMFCO2" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAGE 2025</div><a href="images/dmfco2.png"><img src='images/dmfco2.png' alt="DMFCO2" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Conditional Diffusion Model for CO₂ Monitoring and Forecasting in Heterogeneous Geological Formations](https://doi.org/10.3997/2214-4609.202510212)
-
-**Vittoria De Pellegrini**, Damir Wamriew, Tariq Alkhalifah
-
-*86th EAGE Annual Conference & Exhibition, Vol. 2025, pp. 1–5, June 2025*
-
-[**DOI**](https://doi.org/10.3997/2214-4609.202510212) \| [**Code**](https://github.com/VittoDePe98/DMFCO2-pub)
+<a class=PaperTitle href="https://doi.org/10.3997/2214-4609.202510212"><b>A Conditional Diffusion Model for CO₂ Monitoring and Forecasting in Heterogeneous Geological Formations</b></a> \\
+ *86th EAGE Annual Conference & Exhibition, Vol. 2025, pp. 1–5, June 2025* \\
+**Vittoria De Pellegrini**, Damir Wamriew, Tariq Alkhalifah \\
+[<a href="https://doi.org/10.3997/2214-4609.202510212">DOI</a>] [<a href="https://github.com/VittoDePe98/DMFCO2-pub">Code</a>]
 - A conditional diffusion model for monitoring and forecasting CO₂ plume migration in heterogeneous geological formations.
 </div>
 </div>
 
-- [Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations](https://scholar.google.com/citations?user=aUvIDgUAAAAJ), **Vittoria De Pellegrini**, Tariq Alkhalifah, **87th EAGE Annual Conference & Exhibition, 2026**
-- [Towards Generative Modeling of CO₂ Geological Storage with Latent Conditional Diffusion Models](https://github.com/VittoDePe98/DMFCO2-pub), **Vittoria De Pellegrini**, Tariq Alkhalifah, **Fifth International Meeting for Applied Geoscience & Energy (SEG/AAPG), Expanded Abstracts 44(1), 1290–1294, 2025**
-- [Development of Supervised Machine Learning Models for the Prediction of Well-Logs & Application on Wells at São Francisco and Santos Basins, Brazil](https://github.com/VittoDePe98/Well-Logs_Predictive_Models), **Vittoria De Pellegrini**, **M.Sc. Thesis, Politecnico di Torino, 2023**
+- <a class=PaperTitle href="https://scholar.google.com/citations?user=aUvIDgUAAAAJ"><b>Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations</b></a>, **Vittoria De Pellegrini**, Tariq Alkhalifah, *87th EAGE Annual Conference & Exhibition, 2026*
+- <a class=PaperTitle href="https://github.com/VittoDePe98/DMFCO2-pub"><b>Towards Generative Modeling of CO₂ Geological Storage with Latent Conditional Diffusion Models</b></a>, **Vittoria De Pellegrini**, Tariq Alkhalifah, *Fifth International Meeting for Applied Geoscience & Energy (SEG/AAPG), Expanded Abstracts 44(1), 1290–1294, 2025*
+- <a class=PaperTitle href="https://github.com/VittoDePe98/Well-Logs_Predictive_Models"><b>Development of Supervised Machine Learning Models for the Prediction of Well-Logs & Application on Wells at São Francisco and Santos Basins, Brazil</b></a>, **Vittoria De Pellegrini**, *M.Sc. Thesis, Politecnico di Torino, 2023*
 
 # 📖 Educations
 - *2024.01 - 2027.12 (expected)*, **Ph.D. in Earth Science and Engineering**, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia. *GPA 3.89*
