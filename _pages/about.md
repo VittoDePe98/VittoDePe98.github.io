@@ -29,6 +29,18 @@ I am an Italian-Brazilian PhD student at [King Abdullah University of Science an
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming soon 🤗</div><a href="images/co2vidbench.gif"><img src='images/co2vidbench.gif' alt="CO2-VidBench" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class=PaperTitle><b>CO2-VidBench: A Multiphysics 2D Video Dataset and Benchmark for Reservoir-Scale Generative Modeling of Geological CO₂ Sequestration</b></span> \\
+ *Dataset and benchmark, to be released on Hugging Face* \\
+**Vittoria De Pellegrini**
+- 5,742 OPM Flow simulations of the SPE11B benchmark (an 8.4 km × 1.2 km cross-section): 4,242 on the reference geology and 1,500 with varied internal geology, plus **200 independent test simulations**, half in-distribution and half out-of-distribution (shifted injection rate, rock properties, geology, or all combined).
+- Each simulation is a **201-frame video**, one frame per year for 200 years, on a 232 × 336 grid. It pairs **CO₂ gas saturation** and **pressure** with derived **density** and **P- and S-wave velocities**.
+- Comes with a benchmark of four tasks (**compression**, **unconditional** and **conditional generation**, and **post-injection forecasting**), plus simulator inputs, data loaders and evaluation code.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR: MLC 2026</div><a href="images/lavigflow.gif"><img src='images/lavigflow.gif' alt="LAViG-FLOW" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
