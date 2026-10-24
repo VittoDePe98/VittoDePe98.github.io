@@ -36,7 +36,7 @@ I am an Italian-Brazilian PhD student at [King Abdullah University of Science an
  *Dataset and benchmark, to be released on Hugging Face* \\
 **Vittoria De Pellegrini**
 - 5,742 OPM Flow simulations of the SPE11B benchmark (an 8.4 km × 1.2 km cross-section): 4,242 on the reference geology and 1,500 with varied internal geology, plus **200 independent test simulations**, half in-distribution and half out-of-distribution (shifted injection rate, rock properties, geology, or all combined).
-- Each simulation is a **201-frame video**, one frame per year for 200 years, on a 232 × 336 grid. It pairs **CO₂ gas saturation** and **pressure** with derived **density** and **P- and S-wave velocities**.
+- Each simulation is a **201-frame video**, one frame per year for 200 years, on a 232 × 336 grid. It pairs **CO₂ gas saturation** and **pressure** with derived **density**, **P- and S-wave velocities**, and **near- and far-angle seismic stacks**.
 - Comes with a benchmark of four tasks (**compression**, **unconditional** and **conditional generation**, and **post-injection forecasting**), plus simulator inputs, data loaders and evaluation code.
 </div>
 </div>
