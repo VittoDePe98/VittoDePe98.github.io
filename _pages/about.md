@@ -20,6 +20,7 @@ I am an Italian-Brazilian PhD student at [King Abdullah University of Science an
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉 **LAViG-FLOW** is published in **Journal of Geophysical Research: Machine Learning and Computation** (open access, [paper](https://doi.org/10.1029/2026JH001294)).
 - *2026.06*: &nbsp;🎤 Presented *Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations* at the **87th EAGE Annual Conference & Exhibition**. <!-- TODO confirm month -->
 - *2026.01*: &nbsp;🎉 **LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations** is out on [arXiv](https://arxiv.org/abs/2601.13190), with code on [GitHub](https://github.com/VittoDePe98/LAViG-FLOW-pub).
 - *2025.08*: &nbsp;🎤 Presented *Towards Generative Modeling of CO₂ Geological Storage with Latent Conditional Diffusion Models* at the **Fifth International Meeting for Applied Geoscience & Energy (SEG/AAPG)**.
@@ -28,13 +29,13 @@ I am an Italian-Brazilian PhD student at [King Abdullah University of Science an
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="images/lavigflow.gif"><img src='images/lavigflow.gif' alt="LAViG-FLOW" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JGR: MLC 2026</div><a href="images/lavigflow.gif"><img src='images/lavigflow.gif' alt="LAViG-FLOW" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class=PaperTitle href="https://arxiv.org/abs/2601.13190"><b>LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations</b></a> \\
- *arXiv preprint, 2026* \\
+<a class=PaperTitle href="https://doi.org/10.1029/2026JH001294"><b>LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations</b></a> \\
+ *Journal of Geophysical Research: Machine Learning and Computation, Vol. 3(5), e2026JH001294, October 2026* · Open Access \\
 **Vittoria De Pellegrini**, Tariq Alkhalifah \\
-[<a href="https://arxiv.org/abs/2601.13190">PDF</a>] [<a href="https://github.com/VittoDePe98/LAViG-FLOW-pub">Code</a>]
+[<a href="https://doi.org/10.1029/2026JH001294">Paper</a>] [<a href="https://github.com/VittoDePe98/LAViG-FLOW-pub">Code</a>]
 - A latent autoregressive video generation diffusion framework that explicitly learns the **coupled evolution of saturation and pressure fields**.
 - Dedicated autoencoders compress each state variable; a Video Diffusion Transformer models their temporal distribution.
 - Autoregressive fine-tuning enables extrapolation beyond the observed time window, running **two orders of magnitude faster** than traditional numerical solvers.
