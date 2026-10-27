@@ -14,7 +14,7 @@ redirect_from:
 
 I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/) and a Doctoral Researcher with the industry-funded [DeepWave Consortium](https://deepwave.kaust.edu.sa/), which builds machine- and deep-learning workflows for subsurface reservoir characterization. My advisor is Prof. Tariq Alkhalifah.
 
-💻 I focus on **deep generative AI** — especially **video diffusion models** — to model multi-phase subsurface fluid-flow dynamics. I build latent conditional and progressive autoregressive video diffusion models tailored to reservoir simulation data, generating video sequences of key field variables such as CO₂ gas saturation and pressure build-up for **geological carbon sequestration** studies. My workflows rely on CUDA-aware, reproducible CPU/GPU parallel pipelines running at scale on the KAUST IBEX supercomputing cluster.
+💻 I focus on **deep generative AI** — especially **video diffusion models** — to model multi-phase subsurface fluid-flow dynamics. I build latent conditional and progressive autoregressive video diffusion models tailored to reservoir simulation data, generating video sequences of key field variables such as CO₂ gas saturation and pressure build-up for **geological carbon sequestration** studies. My workflows rely on CUDA-aware, reproducible CPU/GPU parallel pipelines running at scale on the KAUST IBEX and ORIX supercomputing clusters.
 
 🔍 **Research interests:** Deep Learning · Deep Generative Modeling · Diffusion Models · Reservoir Simulation · Petrophysics & Well-Logging · Geological Carbon Storage
 
@@ -77,7 +77,7 @@ I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science 
 # 💻 Experience
 - *2024.01 - present*, **Doctoral Researcher**, DeepWave Research Consortium, KAUST, Thuwal, Saudi Arabia.
   - Build deep generative models for multi-phase subsurface fluid-flow dynamics, including latent conditional and progressive autoregressive video diffusion models for reservoir simulation data.
-  - Run large-scale training and inference on the KAUST IBEX multi-GPU cluster with CUDA-aware job scripts and CPU/GPU parallel workflows.
+  - Run large-scale training and inference on the KAUST IBEX and ORIX multi-GPU clusters with CUDA-aware job scripts and CPU/GPU parallel workflows.
 - *2023.02 - 2023.07*, **Graduate Researcher**, Politecnico di Torino, Turin, Italy.
   - Developed supervised machine learning models for conventional and advanced well-log prediction, applied to wells from the São Francisco and Santos basins in Brazil using PETROBRAS datasets.
 - *2022.09 - 2022.11*, **Geophysics Intern**, Aramco Overseas Company B.V., Delft, Netherlands.
