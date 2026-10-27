@@ -20,11 +20,11 @@ I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science 
 
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉 **LAViG-FLOW** is published in **Journal of Geophysical Research: Machine Learning and Computation** (open access, [paper](https://doi.org/10.1029/2026JH001294)).
-- *2026.06*: &nbsp;🎤 Presented *Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations* at the **87th EAGE Annual Conference & Exhibition**.
-- *2026.01*: &nbsp;🎉 **LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations** is out on [arXiv](https://arxiv.org/abs/2601.13190), with code on [GitHub](https://github.com/VittoDePe98/LAViG-FLOW-pub).
-- *2025.08*: &nbsp;🎤 Presented *Towards Generative Modeling of CO₂ Geological Storage with Latent Conditional Diffusion Models* at the **Fifth International Meeting for Applied Geoscience & Energy (SEG/AAPG)**.
-- *2025.06*: &nbsp;🎤 Presented *A Conditional Diffusion Model for CO₂ Monitoring and Forecasting in Heterogeneous Geological Formations* at the **86th EAGE Annual Conference & Exhibition**.
+- *2026.10*: &nbsp;🎉 **LAViG-FLOW** is published in **Journal of Geophysical Research: Machine Learning and Computation** (open access). [<a href="https://doi.org/10.1029/2026JH001294">Paper</a>] [<a href="https://github.com/VittoDePe98/LAViG-FLOW-pub">Code</a>]
+- *2026.08*: &nbsp;🎤 Presented *Physics-Informed Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations* at the **Sixth International Meeting for Applied Geoscience & Energy (SEG/AAPG)**.
+- *2026.06*: &nbsp;🎤 Presented *Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations* at the **87th EAGE Annual Conference & Exhibition**. [<a href="https://www.earthdoc.org/content/papers/10.3997/2214-4609.202610173">Paper</a>] [<a href="https://github.com/VittoDePe98/LAViG-FLOW-pub">Code</a>]
+- *2025.08*: &nbsp;🎤 Presented *Towards Generative Modeling of CO₂ Geological Storage with Latent Conditional Diffusion Models* at the **Fifth International Meeting for Applied Geoscience & Energy (SEG/AAPG)**. [<a href="https://doi.org/10.1190/image2025-4303381.1">Paper</a>] [<a href="https://github.com/VittoDePe98/DMFCO2-pub">Code</a>]
+- *2025.06*: &nbsp;🎤 Presented *A Conditional Diffusion Model for CO₂ Monitoring and Forecasting in Heterogeneous Geological Formations* at the **86th EAGE Annual Conference & Exhibition**. [<a href="https://doi.org/10.3997/2214-4609.202510212">Paper</a>] [<a href="https://github.com/VittoDePe98/DMFCO2-pub">Code</a>]
 - *2024.01*: &nbsp;🎓 Started my PhD in Earth Science and Engineering at KAUST, joining the DeepWave Consortium.
 
 # 📝 Publications 
