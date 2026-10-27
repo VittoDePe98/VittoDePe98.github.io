@@ -12,7 +12,7 @@ redirect_from:
 
 # 👋 About Me ([CV](files/CV_Vittoria_De_Pellegrini.pdf))
 
-I am an Italian-Brazilian PhD student at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/) and a Doctoral Researcher with the industry-funded [DeepWave Consortium](https://deepwave.kaust.edu.sa/), which builds machine- and deep-learning workflows for subsurface reservoir characterization. My advisor is Prof. Tariq Alkhalifah.
+I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/) and a Doctoral Researcher with the industry-funded [DeepWave Consortium](https://deepwave.kaust.edu.sa/), which builds machine- and deep-learning workflows for subsurface reservoir characterization. My advisor is Prof. Tariq Alkhalifah.
 
 💻 I focus on **deep generative AI** — especially **video diffusion models** — to model multi-phase subsurface fluid-flow dynamics. I build latent conditional and progressive autoregressive video diffusion models tailored to reservoir simulation data, generating video sequences of key field variables such as CO₂ gas saturation and pressure build-up for **geological carbon sequestration** studies. My workflows rely on CUDA-aware, reproducible CPU/GPU parallel pipelines running at scale on the KAUST IBEX supercomputing cluster.
 
