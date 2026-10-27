@@ -21,7 +21,7 @@ I am an Italian-Brazilian PhD student at [King Abdullah University of Science an
 
 # 🔥 News
 - *2026.10*: &nbsp;🎉 **LAViG-FLOW** is published in **Journal of Geophysical Research: Machine Learning and Computation** (open access, [paper](https://doi.org/10.1029/2026JH001294)).
-- *2026.06*: &nbsp;🎤 Presented *Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations* at the **87th EAGE Annual Conference & Exhibition**. <!-- TODO confirm month -->
+- *2026.06*: &nbsp;🎤 Presented *Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations* at the **87th EAGE Annual Conference & Exhibition**.
 - *2026.01*: &nbsp;🎉 **LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations** is out on [arXiv](https://arxiv.org/abs/2601.13190), with code on [GitHub](https://github.com/VittoDePe98/LAViG-FLOW-pub).
 - *2025.08*: &nbsp;🎤 Presented *Towards Generative Modeling of CO₂ Geological Storage with Latent Conditional Diffusion Models* at the **Fifth International Meeting for Applied Geoscience & Energy (SEG/AAPG)**.
 - *2025.06*: &nbsp;🎤 Presented *A Conditional Diffusion Model for CO₂ Monitoring and Forecasting in Heterogeneous Geological Formations* at the **86th EAGE Annual Conference & Exhibition**.
