@@ -14,7 +14,7 @@ redirect_from:
 
 I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/) and a Doctoral Researcher with the industry-funded [DeepWave Consortium](https://deepwave.kaust.edu.sa/), which builds machine- and deep-learning workflows for subsurface reservoir characterization. My advisor is Prof. Tariq Alkhalifah.
 
-💻 I focus on **deep generative AI** — especially **video diffusion models** — to model multi-phase subsurface fluid-flow dynamics. I build latent conditional and progressive autoregressive video diffusion models tailored to reservoir simulation data, generating video sequences of key field variables such as CO₂ gas saturation and pressure build-up for **geological carbon sequestration** studies. My workflows rely on CUDA-aware, reproducible CPU/GPU parallel pipelines running at scale on the KAUST IBEX and ORIX supercomputing clusters.
+💻 I focus on **deep generative AI**, especially **video diffusion models**, to model multi-phase subsurface fluid-flow dynamics. I build latent conditional and progressive autoregressive video diffusion models tailored to reservoir simulation data, generating video sequences of key field variables such as CO₂ gas saturation and pressure build-up for **geological carbon sequestration** studies. My workflows rely on CUDA-aware, reproducible CPU/GPU parallel pipelines running at scale on the KAUST IBEX and ORIX supercomputing clusters.
 
 🔍 **Research interests:** Deep Learning · Deep Generative Modeling · Diffusion Models · Reservoir Simulation · Petrophysics & Well-Logging · Geological Carbon Storage
 
@@ -65,12 +65,13 @@ I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science 
 </div>
 </div>
 
-- <a class=PaperTitle href="https://scholar.google.com/citations?user=aUvIDgUAAAAJ"><b>Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations</b></a>, **Vittoria De Pellegrini**, Tariq Alkhalifah, *87th EAGE Annual Conference & Exhibition, 2026*
-- <a class=PaperTitle href="https://github.com/VittoDePe98/DMFCO2-pub"><b>Towards Generative Modeling of CO₂ Geological Storage with Latent Conditional Diffusion Models</b></a>, **Vittoria De Pellegrini**, Tariq Alkhalifah, *Fifth International Meeting for Applied Geoscience & Energy (SEG/AAPG), Expanded Abstracts 44(1), 1290–1294, 2025*
-- <a class=PaperTitle href="https://github.com/VittoDePe98/Well-Logs_Predictive_Models"><b>Development of Supervised Machine Learning Models for the Prediction of Well-Logs & Application on Wells at São Francisco and Santos Basins, Brazil</b></a>, **Vittoria De Pellegrini**, *M.Sc. Thesis, Politecnico di Torino, 2023*
+- <span class=PaperTitle><b>Physics-Informed Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations</b></span>, **Vittoria De Pellegrini**, Tariq Alkhalifah, *Sixth International Meeting for Applied Geoscience & Energy (SEG/AAPG), Expanded Abstracts, August 2026*
+- <a class=PaperTitle href="https://www.earthdoc.org/content/papers/10.3997/2214-4609.202610173"><b>Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations</b></a>, **Vittoria De Pellegrini**, Tariq Alkhalifah, *87th EAGE Annual Conference & Exhibition, Vol. 2026, pp. 1–5, June 2026* [<a href="https://www.earthdoc.org/content/papers/10.3997/2214-4609.202610173">DOI</a>] [<a href="https://github.com/VittoDePe98/LAViG-FLOW-pub">Code</a>]
+- <a class=PaperTitle href="https://doi.org/10.1190/image2025-4303381.1"><b>Towards Generative Modeling of CO₂ Geological Storage with Latent Conditional Diffusion Models</b></a>, **Vittoria De Pellegrini**, Tariq Alkhalifah, *Fifth International Meeting for Applied Geoscience & Energy (SEG/AAPG), Expanded Abstracts 44(1), 1290–1294, August 2025* [<a href="https://doi.org/10.1190/image2025-4303381.1">DOI</a>] [<a href="https://github.com/VittoDePe98/DMFCO2-pub">Code</a>]
+- <span class=PaperTitle><b>Development of Supervised Machine Learning Models for the Prediction of Well-Logs & Application on Wells at São Francisco and Santos Basins, Brazil</b></span>, **Vittoria De Pellegrini**, *M.Sc. Thesis, Politecnico di Torino, 2023* [<a href="https://github.com/VittoDePe98/Well-Logs_Predictive_Models">Code</a>]
 
-# 📖 Educations
-- *2024.01 - 2028.11 (expected)*, **Ph.D. in Earth Science and Engineering**, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia. *GPA 3.89*
+# 📖 Education
+- *2024.01 - 2028.11 (expected)*, **Ph.D. in Earth Science and Engineering**, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia. Advisor: Prof. Tariq Alkhalifah. *GPA 3.89/4.0*
 - *2020.10 - 2023.07*, **M.Sc. in Petroleum Engineering**, Politecnico di Torino, Turin, Italy. *Grade 108/110*
 - *2017.10 - 2020.07*, **B.Sc. in Civil Engineering**, Università degli Studi di Padova, Padua, Italy. *Grade 110/110*
 
