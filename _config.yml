@@ -48,7 +48,7 @@ author:
   docker           : "https://hub.docker.com/u/vittodepe98"
   deepwave         : "https://deepwave.kaust.edu.sa/pages/people/detail/vittoria-de-pellegrini"
   gitlab           : "https://gitlab.com/VittoDePe98"
-  cv               : "files/CV_Vittoria_De_Pellegrini.pdf"
+  cv               : # the CV is linked from the About Me heading only
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
