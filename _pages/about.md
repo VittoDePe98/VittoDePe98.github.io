@@ -34,7 +34,7 @@ I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science 
 
 <span class=PaperTitle><b>Multiphysics 2D Video Dataset</b></span> \\
 **Vittoria De Pellegrini** \\
-*We plan to release it on Hugging Face.*
+*To be released on Hugging Face.*
 </div>
 </div>
 
