@@ -29,15 +29,12 @@ I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming soon 🤗</div><a href="images/co2vidbench.gif"><img src='images/co2vidbench.gif' alt="CO2-VidBench" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming soon 🤗</div><a href="images/co2vidbench.gif"><img src='images/co2vidbench.gif' alt="Multiphysics 2D video dataset" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class=PaperTitle><b>CO2-VidBench: A Multiphysics 2D Video Dataset and Benchmark for Reservoir-Scale Generative Modeling of Geological CO₂ Sequestration</b></span> \\
- *Dataset and benchmark, to be released on Hugging Face* \\
-**Vittoria De Pellegrini**
-- 5,742 OPM Flow simulations of the SPE11B benchmark (an 8.4 km × 1.2 km cross-section): 4,242 on the reference geology and 1,500 with varied internal geology, plus **200 independent test simulations**, half in-distribution and half out-of-distribution (shifted injection rate, rock properties, geology, or all combined).
-- Each simulation is a **201-frame video**, one frame per year for 200 years, on a 232 × 336 grid. It pairs **CO₂ gas saturation** and **pressure** with derived **density**, **P- and S-wave velocities**, and **near- and far-angle seismic stacks**.
-- Comes with a benchmark of four tasks (**compression**, **unconditional** and **conditional generation**, and **post-injection forecasting**), plus simulator inputs, data loaders and evaluation code.
+<span class=PaperTitle><b>Multiphysics 2D Video Dataset</b></span> \\
+**Vittoria De Pellegrini** \\
+*We plan to release it on Hugging Face.*
 </div>
 </div>
 
@@ -45,12 +42,9 @@ I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science 
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://doi.org/10.1029/2026JH001294"><b>LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations</b></a> \\
- *Journal of Geophysical Research: Machine Learning and Computation, Vol. 3(5), e2026JH001294, October 2026* · Open Access \\
 **Vittoria De Pellegrini**, Tariq Alkhalifah \\
+*Journal of Geophysical Research: Machine Learning and Computation, Vol. 3(5), e2026JH001294, October 2026* \\
 [<a href="https://doi.org/10.1029/2026JH001294">Paper</a>] [<a href="https://github.com/VittoDePe98/LAViG-FLOW-pub">Code</a>]
-- A latent autoregressive video generation diffusion framework that explicitly learns the **coupled evolution of saturation and pressure fields**.
-- Dedicated autoencoders compress each state variable; a Video Diffusion Transformer models their temporal distribution.
-- Autoregressive fine-tuning enables extrapolation beyond the observed time window, running **two orders of magnitude faster** than traditional numerical solvers.
 </div>
 </div>
 
@@ -62,10 +56,9 @@ I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science 
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://doi.org/10.3997/2214-4609.202510212"><b>A Conditional Diffusion Model for CO₂ Monitoring and Forecasting in Heterogeneous Geological Formations</b></a> \\
- *86th EAGE Annual Conference & Exhibition, Vol. 2025, pp. 1–5, June 2025* \\
 **Vittoria De Pellegrini**, Damir Wamriew, Tariq Alkhalifah \\
+*86th EAGE Annual Conference & Exhibition, Vol. 2025, pp. 1–5, June 2025* \\
 [<a href="https://doi.org/10.3997/2214-4609.202510212">DOI</a>] [<a href="https://github.com/VittoDePe98/DMFCO2-pub">Code</a>]
-- A conditional diffusion model for monitoring and forecasting CO₂ plume migration in heterogeneous geological formations.
 </div>
 </div>
 
