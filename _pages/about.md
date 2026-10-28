@@ -62,7 +62,7 @@ I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science 
 </div>
 </div>
 
-- <span class=PaperTitle><b>Development of Supervised Machine Learning Models for the Prediction of Well-Logs & Application on Wells at São Francisco and Santos Basins, Brazil</b></span>, **Vittoria De Pellegrini**, *M.Sc. Thesis, Politecnico di Torino, 2023* [<a href="https://github.com/VittoDePe98/Well-Logs_Predictive_Models">Code</a>]
+- <a class=PaperTitle href="https://webthesis.biblio.polito.it/27156/"><b>Development of Supervised Machine Learning Models for the Prediction of Well-Logs & Application on Wells at São Francisco and Santos Basins, Brazil</b></a>, **Vittoria De Pellegrini**, *M.Sc. Thesis, Politecnico di Torino, 2023* [<a href="https://webthesis.biblio.polito.it/27156/">Paper</a>] [<a href="https://github.com/VittoDePe98/Well-Logs_Predictive_Models">Code</a>]
 
 # 📖 Education
 - *2024.01 - 2028.11 (expected)*, **Ph.D. in Earth Science and Engineering**, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia. Advisor: Prof. Tariq Alkhalifah. *GPA 3.89/4.0*
