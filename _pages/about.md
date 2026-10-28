@@ -49,8 +49,8 @@ I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science 
 </div>
 
 - <span class=PaperTitle><b>Physics-Informed Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations</b></span>, **Vittoria De Pellegrini**, Tariq Alkhalifah, *Sixth International Meeting for Applied Geoscience & Energy (SEG/AAPG), Expanded Abstracts, August 2026*
-- <a class=PaperTitle href="https://www.earthdoc.org/content/papers/10.3997/2214-4609.202610173"><b>Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations</b></a>, **Vittoria De Pellegrini**, Tariq Alkhalifah, *87th EAGE Annual Conference & Exhibition, Vol. 2026, pp. 1–5, June 2026* [<a href="https://www.earthdoc.org/content/papers/10.3997/2214-4609.202610173">DOI</a>] [<a href="https://github.com/VittoDePe98/LAViG-FLOW-pub">Code</a>]
-- <a class=PaperTitle href="https://doi.org/10.1190/image2025-4303381.1"><b>Towards Generative Modeling of CO₂ Geological Storage with Latent Conditional Diffusion Models</b></a>, **Vittoria De Pellegrini**, Tariq Alkhalifah, *Fifth International Meeting for Applied Geoscience & Energy (SEG/AAPG), Expanded Abstracts 44(1), 1290–1294, August 2025* [<a href="https://doi.org/10.1190/image2025-4303381.1">DOI</a>] [<a href="https://github.com/VittoDePe98/DMFCO2-pub">Code</a>]
+- <a class=PaperTitle href="https://www.earthdoc.org/content/papers/10.3997/2214-4609.202610173"><b>Latent Autoregressive Video Diffusion Models for Fluid Flow Simulations</b></a>, **Vittoria De Pellegrini**, Tariq Alkhalifah, *87th EAGE Annual Conference & Exhibition, Vol. 2026, pp. 1–5, June 2026* [<a href="https://www.earthdoc.org/content/papers/10.3997/2214-4609.202610173">Paper</a>] [<a href="https://github.com/VittoDePe98/LAViG-FLOW-pub">Code</a>]
+- <a class=PaperTitle href="https://doi.org/10.1190/image2025-4303381.1"><b>Towards Generative Modeling of CO₂ Geological Storage with Latent Conditional Diffusion Models</b></a>, **Vittoria De Pellegrini**, Tariq Alkhalifah, *Fifth International Meeting for Applied Geoscience & Energy (SEG/AAPG), Expanded Abstracts 44(1), 1290–1294, August 2025* [<a href="https://doi.org/10.1190/image2025-4303381.1">Paper</a>] [<a href="https://github.com/VittoDePe98/DMFCO2-pub">Code</a>]
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAGE 2025</div><a href="images/dmfco2.png"><img src='images/dmfco2.png' alt="DMFCO2" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,7 +58,7 @@ I am an Italian-Brazilian PhD candidate at [King Abdullah University of Science 
 <a class=PaperTitle href="https://doi.org/10.3997/2214-4609.202510212"><b>A Conditional Diffusion Model for CO₂ Monitoring and Forecasting in Heterogeneous Geological Formations</b></a> \\
 **Vittoria De Pellegrini**, Damir Wamriew, Tariq Alkhalifah \\
 *86th EAGE Annual Conference & Exhibition, Vol. 2025, pp. 1–5, June 2025* \\
-[<a href="https://doi.org/10.3997/2214-4609.202510212">DOI</a>] [<a href="https://github.com/VittoDePe98/DMFCO2-pub">Code</a>]
+[<a href="https://doi.org/10.3997/2214-4609.202510212">Paper</a>] [<a href="https://github.com/VittoDePe98/DMFCO2-pub">Code</a>]
 </div>
 </div>
 
